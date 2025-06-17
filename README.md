@@ -49,4 +49,4 @@ streamlit run chatbot_app.py
 - Merges it into a **prompt template**
 - Sends it to your **fine-tuned GPT model** for accurate + styled response
 
-Perfect for technical demos and interviews!
+
